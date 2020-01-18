@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '郝震的独立博客'
-description: '从今天开始，做一个热爱技术的人，喂马、劈柴、周游世界。'
-keyword: '郝震, 郝震的独立博客, 郝震的博客, 游戏前端开发, javascript'
+title: '郝震的个人博客'
+description: ''
+keyword: ''
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
